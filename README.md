@@ -18,7 +18,7 @@
 </head>
 <body>
   <header>
-    <h1>[Helen Walker Occupational Therapyh1>
+    <h1>[Helen Walker Occupational Therapy>
     <p>Independent Paediatric Occupational Therapy Services</p>
   </header>
 
@@ -32,7 +32,7 @@
   <section id="about">
     <h2>About Me</h2>
     <div class="card">
-      <p>I’m [Your Name], a HCPC-registered Paediatric Occupational Therapist specialising in sensory integration, neurodiversity-affirming practice, emotional regulation, and school-based consultancy.</p>
+      <p>I’m [Helen Walker], a HCPC-registered Paediatric Occupational Therapist specialising in sensory integration, neurodiversity-affirming practice, emotional regulation, and school-based consultancy.</p>
       <p>I support children with sensory needs, ADHD, autism, motor coordination challenges, and emotional regulation differences through tailored, relationship-centred intervention.</p>
     </div>
   </section>
@@ -104,15 +104,15 @@
   <section id="contact">
     <h2>Contact</h2>
     <div class="card">
-      <p>Email: yourname@example.com</p>
-      <p>Phone: 00000 000000</p>
-      <p>Location: [City], UK</p>
+      <p>Email: ot.helenwalker@gmail.com</p>
+      <p>Phone: +447784121164</p>
+      <p>Location: [North Yorkshire], UK</p>
       <a class="cta" href="mailto:yourname@example.com">Email Me</a>
     </div>
   </section>
 
   <footer>
-    <p>© [Year] [Business Name] | HCPC Registered | All Rights Reserved</p>
+    <p>© [2025] [Helen Walker Occupational Therapy] | HCPC Registered | All Rights Reserved</p>
   </footer>
 </body>
 </html>
