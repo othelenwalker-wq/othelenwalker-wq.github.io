@@ -18,7 +18,7 @@
 </head>
 <body>
   <header>
-    <h1>[Helen Walker Occupational Therapy>
+    <h1>Helen Walker Occupational Therapy
     <p>Independent Paediatric Occupational Therapy Services</p>
   </header>
 
@@ -32,7 +32,7 @@
   <section id="about">
     <h2>About Me</h2>
     <div class="card">
-      <p>I’m [Helen Walker], a HCPC-registered Paediatric Occupational Therapist specialising in sensory integration, neurodiversity-affirming practice, emotional regulation, and school-based consultancy.</p>
+      <p>I’m Helen Walker, a HCPC-registered Paediatric Occupational Therapist specialising in sensory integration, neurodiversity-affirming practice, emotional regulation, and school-based consultancy.</p>
       <p>I support children with sensory needs, ADHD, autism, motor coordination challenges, and emotional regulation differences through tailored, relationship-centred intervention.</p>
     </div>
   </section>
