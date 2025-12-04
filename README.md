@@ -18,7 +18,7 @@
 </head>
 <body>
   <header>
-    <h1>[Business Name]</h1>
+    <h1>[Helen Walker Occupational Therapyh1>
     <p>Independent Paediatric Occupational Therapy Services</p>
   </header>
 
